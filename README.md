@@ -2,7 +2,7 @@
 
 A fully responsive, modern, and interactive personal portfolio website built to showcase skills, projects, and professional experience. The site features a dynamic theme switcher, light/dark mode, and a functional contact form.
 
-![Project Screenshot](./assets/img/project1.jpeg)
+![Project Screenshot](./assets/img/profile.png)
 *(Note: Replace the image path above with a screenshot of your actual website homepage)*
 
 ## ✨ Features
